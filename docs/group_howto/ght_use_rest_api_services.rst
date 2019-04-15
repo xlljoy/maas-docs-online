@@ -73,7 +73,7 @@ You need an API token to authenticate and authorize REST requests. When creating
 
   .. image:: ../img/use_api_tokens_5.jpg
 
-  c. Paste the token in the value field of the **apiToken** key, add serviceTypeId and serviceClassId two variables with developer and nano as the value individually then click Update.
+  c. Paste the token in the value field of the **apiToken** key, add **serviceTypeId** and **serviceClassId** two variables with developer and nano as the value individually and then click Update.
 
   .. image:: ../img/use_api_tokens_6.jpg
 
